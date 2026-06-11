@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aayush Aggarwal<br><br>An MCA graduate passionate about Data Analytics, Data Science,<br>and Artificial Intelligence. I enjoy working with data, building<br>AI/ML models, and creating practical solutions to real-world problems.<br><br>🔭 I’m currently working on<br>Data Analytics, Data Science, and AI/ML Projects<br><br>👯 I’m looking to collaborate on<br>Analytics, Machine Learning, and Open-Source Projects<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Data Visualization & Model Optimization<br><br>💬 Ask me about<br>Python, SQL, R, Java, C, C++, Data Analytics, and AI/ML<br><br>🛠️ Languages & Tools<br>Python | R | SQL | Java | C | C++ | HTML | CSS | Basic JavaScript<br>Jupyter Notebook | Google Colab | Git & GitHub | VS Code<br><br>⚡ Fun fact<br>I enjoy uncovering insights from data and transforming ideas into impactful projects.
+👋 Hi, I'm Aayush Aggarwal<br><br>An MCA graduate passionate about Data Analytics, Data Science and Artificial Intelligence. I enjoy working with data, building AI/ML models, and creating practical solutions to real-world problems.<br>🔭 I’m currently working on Data Analytics, Data Science, and AI/ML Projects<br>👯 I’m looking to collaborate on Analytics, Machine Learning, and Open-Source Projects<br>🌱 I’m currently learning Advanced Machine Learning, Data Visualization & Model Optimization<br>💬 Ask me about Python, SQL, R, Java, C, C++, Data Analytics, and AI/ML<br>🛠️ Languages & Tools<br>Python | R | SQL | Java | C | C++ | HTML | CSS | Basic JavaScript | Jupyter Notebook | Google Colab | Git & GitHub | VS Code<br>⚡ Fun fact<br>I enjoy uncovering insights from data and transforming ideas into impactful projects.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushaggarwal06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayushaggarwal06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
